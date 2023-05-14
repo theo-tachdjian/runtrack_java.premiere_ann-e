@@ -1,0 +1,1 @@
+Plus le nombre de caractere à générer est élevé, plus l'opération sera rapide.
